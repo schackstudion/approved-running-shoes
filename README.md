@@ -30,7 +30,7 @@ None.
 
 ## What next?
 
-A programer.
+An interested programmer.
 
 ## Acknowledgments
 
